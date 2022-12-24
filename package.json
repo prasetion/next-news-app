@@ -1,19 +1,32 @@
 {
-    "name": "next-crash-course",
-    "private": true,
-    "scripts": {
-        "dev": "next dev",
-        "build": "next build",
-        "start": "next start",
-        "lint": "next lint"
-    },
-    "dependencies": {
-        "next": "12.0.3",
-        "react": "17.0.2",
-        "react-dom": "17.0.2"
-    },
-    "devDependencies": {
-        "eslint": "7.32.0",
-        "eslint-config-next": "12.0.3"
-    }
+  "name": "next-crash-course",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.0.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.3"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "version": "1.0.0",
+  "main": "data.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasetion/next-news-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasetion/next-news-app/issues"
+  },
+  "homepage": "https://github.com/prasetion/next-news-app#readme"
 }
